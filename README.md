@@ -1,4 +1,3 @@
-# mariaclara2B
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<link rel="stylesheet" href="style.css">
 <body>
-    <h1>vai ser uma imagem aqui</h1>
-</body>
-</html>
+    <header> <h1>vai ser uma imagem aqui</h1>
+        <ul>
+            <li>colegio Huberto</li>
+            <li>2B</li>
+        </ul></header>
+            
+        </body>
+        </html>
+
